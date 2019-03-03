@@ -5,3 +5,5 @@ yes
 why
 do you like me
 yes
+do you kwnoe me ?
+no
