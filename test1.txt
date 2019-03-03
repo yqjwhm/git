@@ -10,3 +10,6 @@ no
 hello 
 I am come in 
 wellcome
+
+你好，github，首次使用，
+多多关照
